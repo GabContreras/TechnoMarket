@@ -38,8 +38,8 @@
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/GabContreras/Wilfredo-Granados.git
-   cd Wilfredo-Granados/TecnoMarket
+   git clone https://github.com/GabContreras/TechnoMarket.git
+   cd TechnoMarket/TecnoMarket
    ```
 
 2. **Instalar dependencias**
